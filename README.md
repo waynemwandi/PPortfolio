@@ -16,4 +16,4 @@
 * Click on this ***[link](https://waynemwandi.github.io/PPortfolio)** to access the website.
 
 ## Legal | Licencing
-### **Copyright (©) 2019 - 2020  Wayne Mwandi. All rights reserved.**
+### **Copyright © 2020  Wayne Mwandi. All rights reserved.**
